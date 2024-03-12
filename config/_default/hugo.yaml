@@ -4,14 +4,14 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 婷婷的博客 # Website name
-baseURL: 'https://ztt.netlify.app/' # Website URL
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: true
+hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
