@@ -39,26 +39,25 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
-经历:
-  - 教育经历:
-    - area: 大数据专业本科
-      institution: 安徽大学-计算机学院
-      date_start: 2018-09-01
-      date_end: 2022-06-01
-      summary: |
-        保研推免至天津大学。
-    - area: 电子信息专业硕士研究生
-      institution: 天津大学-电气自动化与信息工程学院
-      date_start: 2016-01-01
-      date_end: 2020-12-31
-      summary: |
-        GPA: 3.8/4.0
-  - 工作经历:
-    - position: 实习生
-      company_name: 宝贝填写
-      date_start: 2022-06-01
-      date_end: 2022-08-01
-      summary: |
+education:
+  - area: 大数据专业本科
+    institution: 安徽大学-计算机学院
+    date_start: 2018-09-01
+    date_end: 2022-06-01
+    summary: |
+      保研推免至天津大学。
+  - area: 电子信息专业硕士研究生
+    institution: 天津大学-电气自动化与信息工程学院
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+work:
+  - position: 实习生
+    company_name: 宝贝填写
+    date_start: 2022-06-01
+    date_end: 2022-08-01
+    summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
