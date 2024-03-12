@@ -57,10 +57,13 @@ work:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2022-06
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      test
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -71,19 +74,19 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: Java
+      - name: RStudio
         description: ''
-        percent: 70
-        icon: devicon/java
+        percent: 100
+        icon: devicon/rstudio
       - name: PyTorch
         description: ''
-        percent: 60
+        percent: 40
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Reading
+      - name: Hiking
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -97,10 +100,12 @@ skills:
         icon: camera
 
 languages:
-  - name: Chinese
-    percent: 100
   - name: English
+    percent: 100
+  - name: Chinese
     percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
