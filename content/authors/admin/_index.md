@@ -56,7 +56,7 @@ work:
   - position: 实习生
     company_name: 宝贝填写
     date_start: 2022-06-01
-    date_end: '2022-08'
+    date_end: 2022-08-01
     summary: |
 
 # Skills
@@ -94,12 +94,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 90
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
