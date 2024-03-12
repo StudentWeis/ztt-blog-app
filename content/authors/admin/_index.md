@@ -59,7 +59,8 @@ work:
     company_logo: ''
     date_start: 2022-06
     date_end: ''
-    # summary: |2-
+    summary: |2-
+      test
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -73,7 +74,7 @@ skills:
       - name: Java
         description: ''
         percent: 70
-        icon: devicon/python
+        icon: devicon/java
       - name: PyTorch
         description: ''
         percent: 60
