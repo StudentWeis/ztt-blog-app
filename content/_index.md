@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -28,7 +28,6 @@ sections:
   - block: experience
     content:
       username: admin
-      title: 经历
     design:
       # Hugo date format
       date_format: '2006-02'

@@ -40,6 +40,7 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
+  - title: 教育经历
   - area: 大数据专业本科
     institution: 安徽大学-计算机学院
     date_start: 2018-09-01
@@ -48,8 +49,8 @@ education:
       保研推免至天津大学。
   - area: 电子信息专业硕士研究生
     institution: 天津大学-电气自动化与信息工程学院
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2025-01-31
     summary: |
       GPA: 3.8/4.0
 work:
