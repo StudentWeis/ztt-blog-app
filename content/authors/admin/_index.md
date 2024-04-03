@@ -62,7 +62,7 @@ work:
   - position: 软件测试开发实习生
     company_name: 合肥伊什塔尔科技有限公司
     date_start: 2021-10-01
-    date_end: 2022-12-01
+    date_end: 2021-12-01
     summary: |
       - Python, Vue, MySQL
       - 负责公司⽹站的测试及前端开发、数据库测试、文档编写等工作
