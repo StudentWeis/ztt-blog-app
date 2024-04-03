@@ -40,12 +40,15 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - area: 大数据专业本科
+  - area: 网络工程专业本科
     institution: 安徽大学-计算机学院
     date_start: 2018-09-01
     date_end: 2022-06-01
     summary: |
-      保研推免至天津大学。
+      - 四级 463 分，六级 484 分（⼝语等级B）
+      - 学习优秀⼆等奖学⾦，优秀学⽣奖学⾦
+      - 本科毕设题⽬：具有动词语义⾓⾊的类人可控视觉描述⽣成（优秀毕业论⽂）
+      - 2022 级优秀毕业生
   - area: 电子信息专业硕士研究生
     institution: 天津大学-电气自动化与信息工程学院
     date_start: 2022-09-01
