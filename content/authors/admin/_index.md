@@ -42,24 +42,30 @@ profiles:
 education:
   - area: 网络工程专业本科
     institution: 安徽大学-计算机学院
-    date_start: 2018-09-01
-    date_end: 2022-06-01
+    date_start: 2018-01-09
+    date_end: 2022-01-06
     summary: |
-      - 四级 463 分，六级 484 分（⼝语等级B）
-      - 学习优秀⼆等奖学⾦，优秀学⽣奖学⾦
-      - 本科毕设题⽬：具有动词语义⾓⾊的类人可控视觉描述⽣成（优秀毕业论⽂）
+      - 加权：87.47，排名：7/136
+      - 四级 463 分，六级 484 分（口语等级B）
+      - 学习优秀⼆等奖学金，优秀学⽣奖学金
+      - 本科毕设题⽬：具有动词语义角色的类人可控视觉描述⽣成（优秀毕业论文）
       - 2022 级优秀毕业生
   - area: 电子信息专业硕士研究生
     institution: 天津大学-电气自动化与信息工程学院
-    date_start: 2022-09-01
-    date_end: 2025-01-31
+    date_start: 2022-01-09
+    date_end: 2025-31-01
     summary: |
+      - 加权：87.83，排名：前 20%
+      - 天津⼤学推免保研学业奖学金，天津⼤学⼆等学业奖学金
+      - 主要研究⽅向为基于大模型算法的新闻图像描述生成
 work:
-  - position: 实习生
-    company_name: 公司名称
-    date_start: 2022-06-01
-    date_end: 2022-08-01
+  - position: 软件测试开发实习生
+    company_name: 合肥伊什塔尔科技有限公司
+    date_start: 2021-01-10
+    date_end: 2022-01-12
     summary: |
+      - Python, Vue, MySQL
+      - 负责公司⽹站的测试及前端开发、数据库测试、文档编写等工作
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -74,7 +80,7 @@ skills:
         description: ''
         percent: 70
         icon: devicon/java
-      - name: PyTorch
+      - name: Linux
         description: ''
         percent: 60
         icon: devicon/pytorch
@@ -82,7 +88,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -113,4 +119,4 @@ awards:
     summary: |
 ---
 
-主要研究方向为 News Image Captioning（新闻图像描述），对 LLM、VLM 的微调、改进有一定研究。
+主要研究方向为 News Image Captioning（新闻图像描述），对 LLaVA、CLIP、BART 的微调、改进有一定研究。
