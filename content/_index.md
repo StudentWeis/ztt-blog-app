@@ -15,9 +15,9 @@ sections:
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: 下载头像
-        url: uploads/avatar.jpg
+      # button:
+      #   text: 下载头像
+      #   url: uploads/avatar.jpg
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -30,7 +30,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '2006-02'
+      date_format: 'YYYY-MM'
       # Education or Experience section first?
       is_education_first: True
   - block: skills

@@ -56,7 +56,7 @@ education:
     date_end: 2025-01-31
     summary: |
       - 加权：87.83，排名：前 20%
-      - 天津⼤学推免保研学业奖学金，天津⼤学⼆等学业奖学金
+      - 天津⼤学推免保研学业奖学金，天津大学⼆等学业奖学金
       - 主要研究⽅向为基于大模型算法的新闻图像描述生成
 work:
   - position: 软件测试开发实习生
@@ -112,6 +112,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 天津大学推免保研奖学金
+    date: '2022-11-25'
+    awarder: 天津大学研究生院
+    icon: education
+    summary: |
+
   - title: 天津大学二等学业奖学金
     date: '2023-10-25'
     awarder: 天津大学研究生院
