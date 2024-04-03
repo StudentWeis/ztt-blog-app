@@ -16,8 +16,8 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: 下载简历
-        url: uploads/resume.pdf
+        text: 下载头像
+        url: uploads/avatar.jpg
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
