@@ -42,8 +42,8 @@ profiles:
 education:
   - area: 网络工程专业本科
     institution: 安徽大学-计算机学院
-    date_start: 2018-01-09
-    date_end: 2022-01-06
+    date_start: 2018-09-01
+    date_end: 2022-06-01
     summary: |
       - 加权：87.47，排名：7/136
       - 四级 463 分，六级 484 分（口语等级B）
@@ -52,8 +52,8 @@ education:
       - 2022 级优秀毕业生
   - area: 电子信息专业硕士研究生
     institution: 天津大学-电气自动化与信息工程学院
-    date_start: 2022-01-09
-    date_end: 2025-31-01
+    date_start: 2022-09-01
+    date_end: 2025-01-31
     summary: |
       - 加权：87.83，排名：前 20%
       - 天津⼤学推免保研学业奖学金，天津⼤学⼆等学业奖学金
@@ -61,8 +61,8 @@ education:
 work:
   - position: 软件测试开发实习生
     company_name: 合肥伊什塔尔科技有限公司
-    date_start: 2021-01-10
-    date_end: 2022-01-12
+    date_start: 2021-10-01
+    date_end: 2022-12-01
     summary: |
       - Python, Vue, MySQL
       - 负责公司⽹站的测试及前端开发、数据库测试、文档编写等工作
@@ -80,10 +80,10 @@ skills:
         description: ''
         percent: 70
         icon: devicon/java
-      - name: Linux
+      - name: PyTorch
         description: ''
         percent: 60
-        icon: devicon/Linux
+        icon: devicon/pytorch
   - name: 爱好
     color: '#eeac02'
     color_border: '#f0bf23'
