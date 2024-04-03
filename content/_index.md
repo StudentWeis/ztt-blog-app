@@ -30,7 +30,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '15 Oct 2023'
+      date_format: '2016-10'
       # Education or Experience section first?
       is_education_first: True
   - block: skills
