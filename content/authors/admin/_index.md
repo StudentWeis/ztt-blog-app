@@ -80,10 +80,10 @@ skills:
         description: ''
         percent: 70
         icon: devicon/java
-      - name: PyTorch
+      - name: Linux
         description: ''
         percent: 60
-        icon: devicon/pytorch
+        icon: devicon/linux
   - name: 爱好
     color: '#eeac02'
     color_border: '#f0bf23'
